@@ -1,0 +1,10 @@
+div.centered {
+    font-family: "helvetica-neue", sans-serif;
+    font-weight: 100;
+    text-align: center;
+    margin: 8px
+}
+
+body {
+    background-color: #F0F0F0
+}
