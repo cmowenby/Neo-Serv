@@ -1,5 +1,5 @@
 var name = gup('name') || window.location.href; 
-var server = gup('server') || 'localhost';
+var server = gup('server') || 'neoserv.craigowenby.com';
 var port = gup('port') || '9000';
 var debug = gup('debug') || false;
 
